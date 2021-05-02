@@ -1,7 +1,7 @@
 {
   "hosting": {
     "site": "stripe-custom-checkout-demo",
-    "public": "public",
+    "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
